@@ -594,5 +594,14 @@
 // document.querySelector('attribiu CSS')// tra ve 1 element
 // document.querySelectorAll('attribiu CSS')//tra ve NodeList, 1 mang gom nhieu element
 
+// var item = document.querySelector('.h1');
 
+// item.className = 'h2';
 
+// console.log(item.getAttribute('class'));
+
+// console.log(headingElement.innerText);
+// console.log(headingElement.textContent);
+// var boxElement = document.querySelector('box');
+
+// console.log(boxElement);
